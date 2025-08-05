@@ -3,7 +3,8 @@ PROJECT 1` FOR GUVI HCL
 THIS PROJECT IS CREATED BY REETIRAJ GAUTAM 2312RES279 OF IIT PATNA FOR JAVA FULL STACK DEVELOPMENT.
 THIS FEATURES CALCULATION OF BODY MASS INDEX AND RECOMMEND MELS ACCORDING TO NEED.
 
-CLICK HERE   https://reetiraj123.github.io/GUVI_P1/
+CLICK HERE: Your site is live at https://reetiraj123.github.io/GUVI_P1/
+
 
 Technology Selection
 Chose Java as the primary language for its robustness and wide acceptance in FSD projects.
